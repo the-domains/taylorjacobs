@@ -1,25 +1,25 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "We're excited to welcome you to our new website! Explore and have fun! - Taylor Jacobs"
-datePublished: '2015-12-16T17:02:41.344Z'
-dateModified: '2015-12-16T17:02:10.414Z'
+datePublished: '2015-12-16T17:10:47.040Z'
+dateModified: '2015-12-16T17:10:13.871Z'
 title: 'Our first post!'
 author: []
+sourcePath: _posts/2015-12-16-our-first-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-16-our-first-post.md
-published: true
 url: our-first-post/index.html
 _type: Article
 
 ---
-Our initial post! https://www.instagram.com/p/3ZIPJ6KL5H96aFu9zkRSF9quDvyBSzEtx7wg40/?taken-by=taylorjacobscc
+Our initial post! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc6534c5-466a-4e60-98cd-c6b2f44e05b0.jpg)

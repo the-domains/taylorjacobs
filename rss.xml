@@ -4,21 +4,21 @@
         <description><![CDATA[Taylor Jacobs Creative & Company]]></description>
         <link>https://thegrid.ai/taylorjacobs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 17:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 17:17:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taylorjacobs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d7769a1-b737-4574-9d20-ace7024d5e8f.JPG">]]></description>
+            <link>https://thegrid.ai/taylorjacobs/ee7d067b-4f1f-4ebc-a62a-96736dfa2ba6/index.html</link>
+            <guid isPermaLink="false">ee7d067b-4f1f-4ebc-a62a-96736dfa2ba6</guid>
+            <pubDate>Wed, 16 Dec 2015 17:17:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our first post!]]></title>
             <description><![CDATA[<article><h1>Our first post!</h1><p>Our initial post! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5835d67f619afc6916415aa792d9788a154d04d.jpg"></article>]]></description>
             <link>https://thegrid.ai/taylorjacobs/our-first-post/index.html</link>
             <guid isPermaLink="false">241c5193-4bfb-4878-829b-8078e4080453</guid>
             <pubDate>Wed, 16 Dec 2015 17:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d7769a1-b737-4574-9d20-ace7024d5e8f.JPG">]]></description>
-            <link>https://thegrid.ai/taylorjacobs/ee7d067b-4f1f-4ebc-a62a-96736dfa2ba6/index.html</link>
-            <guid isPermaLink="false">ee7d067b-4f1f-4ebc-a62a-96736dfa2ba6</guid>
-            <pubDate>Wed, 16 Dec 2015 17:16:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

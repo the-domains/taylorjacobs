@@ -1,7 +1,7 @@
 name: taylorjacobs
 favicon: null
-layout_spectrum: 0.7292346698231995
-typography_spectrum: 0.33611012739129364
+layout_spectrum: 1
+typography_spectrum: 0.46034
 title: 'Taylor Jacobs Creative & Company'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#55c2fc'
+    - '#606060'
+    - '#818181'
+    - '#c9c9c9'
   brandStrength: 0.8563351361081004
-  lightness: 0.6883204975165427
-  saturation: 0.7039205604232848
-  rhythmicContrast: 0.8938832792919129
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []

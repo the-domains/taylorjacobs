@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Taylor Jacobs Creative & Company]]></title>
+        <description><![CDATA[Taylor Jacobs Creative & Company]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 17:02:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our first post!]]></title>
+            <description><![CDATA[<article><h1>Our first post!</h1><p>Our initial post! https://www.instagram.com/p/3ZIPJ6KL5H96aFu9zkRSF9quDvyBSzEtx7wg40/?taken-by=taylorjacobscc</p></article>]]></description>
+            <link>undefinedour-first-post/index.html</link>
+            <guid isPermaLink="false">241c5193-4bfb-4878-829b-8078e4080453</guid>
+            <pubDate>Wed, 16 Dec 2015 17:02:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Taylor Jacobs Creative & Company]]></title>
         <description><![CDATA[Taylor Jacobs Creative & Company]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/taylorjacobs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 17:02:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 17:10:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/taylorjacobs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Our first post!]]></title>
-            <description><![CDATA[<article><h1>Our first post!</h1><p>Our initial post! https://www.instagram.com/p/3ZIPJ6KL5H96aFu9zkRSF9quDvyBSzEtx7wg40/?taken-by=taylorjacobscc</p></article>]]></description>
-            <link>undefinedour-first-post/index.html</link>
+            <description><![CDATA[<article><h1>Our first post!</h1><p>Our initial post! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5835d67f619afc6916415aa792d9788a154d04d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/taylorjacobs/our-first-post/index.html</link>
             <guid isPermaLink="false">241c5193-4bfb-4878-829b-8078e4080453</guid>
-            <pubDate>Wed, 16 Dec 2015 17:02:41 GMT</pubDate>
+            <pubDate>Wed, 16 Dec 2015 17:10:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
